@@ -1,0 +1,2 @@
+Today's GIT section is at 10 am.
+cd ~/desktop/git_project

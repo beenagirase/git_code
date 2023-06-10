@@ -1,0 +1,12 @@
+GIT is DVC type. There are various commands use in GIT.
+
+SGR@DESKTOP-2GR7DBT MINGW64 ~/Desktop (master)
+$ cd ~/Desktop/git_project/
+
+SGR@DESKTOP-2GR7DBT MINGW64 ~/Desktop/git_project (master)
+$ ls
+g1.txt  g2.txt
+
+
+
+
